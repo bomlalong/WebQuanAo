@@ -8,7 +8,7 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh; 
-    background-image: url(/images/028-fc2ffaf.jpg);
+    background-image: url("images/028-fc2ffaf.jpg");
     background-size: cover;
 }
 .wrapper {
