@@ -18,8 +18,9 @@ body{
     
 }
 #logo{
-    background-image: url("images/028-fc2ffaf.jpg") ;
-    background-size:cover; 
+     
+    background: url("images/028-fc2ffaf.jpg") cover ;
+    
     width: 100%;
     text-align: center;   
    line-height: 500px;
