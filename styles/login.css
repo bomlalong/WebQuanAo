@@ -1,0 +1,28 @@
+*{
+    padding:0;
+    margin:0;
+    box-sizing: border-box;
+}
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; 
+    background-image: url(/images/028-fc2ffaf.jpg);
+    background-size: cover;
+}
+.wrapper {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 300px;
+    padding :20px;
+    height: 600px;
+    border: 5px solid black;
+    border-radius: 5px;
+}
+.login_header img{
+    width: 300px; /* Reduce the logo size */
+    height: 200px;
+}
